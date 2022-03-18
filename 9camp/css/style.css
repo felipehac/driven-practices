@@ -1,0 +1,40 @@
+/*-------------------------------Global-------------------------------*/
+body {
+  background: #fafafa;
+}
+
+/*-------------------------------Header-------------------------------*/
+.header {
+  background: #333;
+  max-height: 64px;
+}
+
+.logo img {
+  margin: auto;
+}
+
+/*------------------------------Content-------------------------------*/
+.content {
+  max-width: 460px;
+  margin: auto;
+}
+
+.post {
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+  margin: 30px auto 0 auto;
+  border: 1px solid #eaeaea;
+}
+
+.post-text {
+  margin: 30px;
+}
+
+.post-text h2 {
+  color: #aa4653;
+  font-weight: bold;
+  font-size: 48px;
+}
+
+.post-text p {
+  color: #000;
+}
